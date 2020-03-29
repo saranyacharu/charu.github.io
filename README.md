@@ -1,5 +1,34 @@
 ## Welcome to GitHub Pages
 
+No ideas for edits.
+How abut I write a one of my stories here?
+
+great.
+Read on People!
+
+Strangers
+
+
+You walked past me today.
+Feels like we’ve met somewhere before. That I knew everything about you. 
+Your smiles and tears, I have them carved out in my heart.
+
+I could read you blindly, when you stopped by.
+
+But, the hollow words that you spoke
+I knew I had read you wrong.
+
+You’ve got a life beyond our promises.
+
+No, it ain’t you that I miss. 
+It’s the old you, who knew my worth.
+
+I’ve never known you. We are strangers.
+
+
+Gimme comments!!
+What do you think of the story?
+
 You can use the [editor on GitHub](https://github.com/saranyacharu/charu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
